@@ -2,7 +2,5 @@
 int main()
 {
      printf("hello world!\n");
-     printf("dd");
-     printf("sss");
      return 0;
 }
